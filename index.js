@@ -27,12 +27,12 @@ function currentLine(line) {
     return `The line is currently:` + array;
   }
 }
-
-
+var number = 0
 
 function takeaNumber(){
-  var number = 0
+  
   number++
+  
   return `You are number ${number}.`
 }
 
