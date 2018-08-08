@@ -32,7 +32,11 @@ function currentLine(line) {
 
 function takeaNumber(num){
   
+  return `You are number ${number}.`
 }
 
 takeaNumber() =>You are number 1 
+takeaNumber() =>You are number 2
+nowServing() -> Now serving number 1 
+takeaNumber() =>You are number 3
 }
