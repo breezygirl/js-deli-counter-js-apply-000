@@ -31,7 +31,7 @@ function currentLine(line) {
 
 
 function takeaNumber(num){
-  number = 0
+ var number = 0
   return `You are number ${number}.`
 }
 
