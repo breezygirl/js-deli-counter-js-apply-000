@@ -33,4 +33,6 @@ function currentLine(line) {
 function takeaNumber(num){
   
 }
+
+takeaNumber() =>You are  1 
 }
