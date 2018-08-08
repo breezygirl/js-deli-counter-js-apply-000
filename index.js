@@ -30,8 +30,9 @@ function currentLine(line) {
 
 
 
-function takeaNumber(num){
- var number = 0
+function takeaNumber(){
+  var number = 0
+  number++
   return `You are number ${number}.`
 }
 
