@@ -34,5 +34,5 @@ function takeaNumber(num){
   
 }
 
-takeaNumber() =>You are  1 
+takeaNumber() =>You are number 1 
 }
