@@ -27,17 +27,17 @@ function currentLine(line) {
     return `The line is currently:` + array;
   }
 }
-var number = 0
+
+
+takeaNumber() =>You are number 1 
+takeaNumber() =>You are number 2
+nowServing() -> Now serving number 1 
+takeaNumber() =>You are number 3
+}var number = 0
 
 function takeaNumber(){
   
   number++
   
   return `You are number ${number}.`
-}
-
-takeaNumber() =>You are number 1 
-takeaNumber() =>You are number 2
-nowServing() -> Now serving number 1 
-takeaNumber() =>You are number 3
 }
